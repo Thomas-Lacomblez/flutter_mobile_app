@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157424095950",
+    "project_id": "ensup-mobile-app-test",
+    "storage_bucket": "ensup-mobile-app-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157424095950:android:d6af7ad4bf1797ce88b69f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157424095950-3cpfj5kmsec470v54dbm0rslsa7fdp1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWqHgwF5forXkwNIuoR5yIT-JXIi84owA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157424095950-3cpfj5kmsec470v54dbm0rslsa7fdp1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
